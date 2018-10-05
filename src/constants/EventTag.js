@@ -1,0 +1,5 @@
+export const ADD_EVENT_TAGS = 'ADD_EVENT_TAGS';
+export const ADD_EVENT_TAG = 'ADD_EVENT_TAG';
+export const EVENT_TAG_ERROR = 'EVENT_TAG_ERROR';
+export const SHOW_EVENT_TAG = 'SHOW_EVENT_TAG';
+export const REMOVE_EVENT_TAG = 'REMOVE_EVENT_TAG';

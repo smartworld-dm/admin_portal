@@ -1,0 +1,60 @@
+.addMargin {
+	margin-top: 20px;
+}
+.box {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  font-size: 18px;
+  max-width: 370px;
+  min-height: 175px;
+
+  border: 1px solid #ccc;
+  -webkit-box-shadow: -3px 5px 5px 0px rgba(102,102,102,0.75);
+  -moz-box-shadow: -3px 5px 5px 0px rgba(102,102,102,0.75);
+  box-shadow: -3px 5px 5px 0px rgba(102,102,102,0.75);
+}
+
+.boxSmall {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+  font-size: 18px;
+  max-width: 370px;
+  min-height: 130px;
+  border: 1px solid #ccc;
+  -webkit-box-shadow: -3px 5px 5px 0px rgba(102,102,102,0.75);
+  -moz-box-shadow: -3px 5px 5px 0px rgba(102,102,102,0.75);
+  box-shadow: -3px 5px 5px 0px rgba(102,102,102,0.75);
+}
+
+.box .title {
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.box .content {
+  font-size: 16px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.boxSmall .title {
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.boxSmall .content {
+  font-size: 16px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.tableHeader {
+	font-size: 16px;
+}
+
